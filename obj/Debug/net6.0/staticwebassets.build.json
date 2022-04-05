@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TcwBhl7JM/uQFBtL7il4cRXY8emXJnCmK40HGnwjOlY=",
+  "Source": "cSharpServerGregslist",
+  "BasePath": "_content/cSharpServerGregslist",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
